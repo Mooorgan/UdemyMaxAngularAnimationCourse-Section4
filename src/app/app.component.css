@@ -1,0 +1,10 @@
+#simple {
+  width: 100px;
+  height: 100px;
+  background-color: orange;
+}
+
+span {
+  margin-right: 2px;
+  display: inline-block;
+}
